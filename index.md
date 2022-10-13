@@ -2,7 +2,15 @@
 
 ---
 
-### Category Name 1 
+### Office of Transportation, Infrastructure, and Sustainability (otIS), Philadelphia
+#### Note: Projects shown here are only those available to the public.
+
+[![Lindbergh Avenue][image]][hyperlink]
+
+[hyperlink]: https://github.com/zoenyoo/Portfolio/raw/master/pdf/Lindbergh_Flyer.pdf
+[image]:
+https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07
+(tooltip)
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
