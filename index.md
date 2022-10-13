@@ -9,11 +9,10 @@
 
 <img src="images/lindbergh_flyer.jpg?raw=true"/>
 
-- [Lindbergh Avenue Flyer](/Lindbergh_Flyer.pdf)
+- [Lindbergh Avenue Flyer](/pdf/Lindbergh_Flyer.pdf)
 - [Lehigh Avenue Flyer](/pdf/Lehigh_Flyer.pdf)
-- [Lehigh Avenue Flyer](/pdf/Lehigh_Flyer.pdf)
-- [Market Street Flyer](/pdf/Lehigh_Flyer.pdf)
-- [Passyunk Ave Flyer](/pdf/Lehigh_Flyer.pdf)
+- [Market Street Flyer](/pdf/Market_Flyer.pdf)
+- [Passyunk Ave Flyer](/pdf/PassyunkEssington_Flyer.pdf)
 
 Designing flyers and outreach materials was a large part of my 2022 summer internship with oTIS. Generally, I made these by starting with a template design, then making maps, adding text, and adding other design elements such as photos or diagrams. On several occasions, after completion I would hand out these flyers in-person on street walkthroughs or community gatherings.
 
