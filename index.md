@@ -8,7 +8,7 @@
 [![Lindbergh Avenue][image]][hyperlink]
 
 [![Lindbergh Avenue Flyer](
-https://github.com/zoenyoo/Portfolio/raw/master/pdf/Lindbergh_Flyer.pdf
+images/lindbergh_flyer.jpg
 "Lindbergh Avenue Flyer")
 ](https://github.com/zoenyoo/Portfolio/raw/master/pdf/Lindbergh_Flyer.pdf)
 
