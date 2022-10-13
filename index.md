@@ -5,7 +5,7 @@
 ### Office of Transportation, Infrastructure, and Sustainability (otIS), Philadelphia
 #### Note: Projects shown here are only those available to the public.
 
-[![Lindbergh Avenue][image]][hyperlink]
+*Lindbergh Avenue Flyer*
 
 [![Lindbergh Avenue Flyer](
 images/lindbergh_flyer.jpg
