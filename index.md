@@ -7,10 +7,10 @@
 
 [![Lindbergh Avenue][image]][hyperlink]
 
-[hyperlink]: https://github.com/zoenyoo/Portfolio/raw/master/pdf/Lindbergh_Flyer.pdf
-[image]:
-https://www.gravatar.com/avatar/dd5a7ef1476fb01998a215b1642dfd07
-(tooltip)
+[![Lindbergh Avenue Flyer](
+https://github.com/zoenyoo/Portfolio/raw/master/pdf/Lindbergh_Flyer.pdf
+"Lindbergh Avenue Flyer")
+](https://github.com/zoenyoo/Portfolio/raw/master/pdf/Lindbergh_Flyer.pdf)
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
