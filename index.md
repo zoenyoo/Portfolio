@@ -18,9 +18,6 @@ Designing flyers and outreach materials was a large part of my 2022 summer inter
 
 ---
 
-
----
-
 ## Data Analytics in R
 
 **Modeling New Jersey Transit Delay**
@@ -43,7 +40,7 @@ In this project, I collaborated with [Jasmine Siyu Wu](https://www.linkedin.com/
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
----
+
 
 
 
