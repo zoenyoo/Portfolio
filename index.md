@@ -24,12 +24,22 @@ Designing flyers and outreach materials was a large part of my 2022 summer inter
 
 ## Data Analytics in R
 
-- [Project 1 Title](http://example.com/)
+**Modeling New Jersey Transit Delay**
 
-[Jasmine Siyu Wu](https://www.linkedin.com/in/jasmine-siyu-wu-6567b7194/)
+<img src="images/njtransit_app.jpg?raw=true"/>
+
+- [Report](/pdf/MUSA508_Final_Project4_Wu-Yoo.html)
+- [Presentation](/pdf/Wu_Yoo_Final_Presentation.pdf)
+
+In this project, I collaborated with [Jasmine Siyu Wu](https://www.linkedin.com/in/jasmine-siyu-wu-6567b7194/) to model train delay on the New Jersey Transit system. This delay is part of a conceptual tool for the NJ Transit Trip Planner app to show riders the predicted amount of train delay during their travels. Our model is mainly based on historic data around time delay, but also takes into account weather factors.
+
+**Modeling San Francisco Bikeshare Usage**
+
+<img src="images/bikeshare_gif.gif?raw=true"/>
+
+- [Report](/pdf/ZoeYoo_Ch8_HW.html)
 
 
-- [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
