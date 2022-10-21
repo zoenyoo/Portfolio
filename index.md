@@ -3,7 +3,7 @@
 ---
 
 ## Office of Transportation, Infrastructure, and Sustainability (oTIS), Philadelphia
-### Note: Projects shown here are only those available to the public.
+*Note: Projects shown here are only those available to the public.*
 
 **Flyers and Communications**
 
@@ -36,15 +36,10 @@ In this project, I collaborated with [Jasmine Siyu Wu](https://www.linkedin.com/
 - [Report](/pdf/ZoeYoo_Ch8_HW.html)
 
 
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 
 
 
 
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<!-- <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p> -->
 <!-- Remove above link if you don't want to attibute -->
